@@ -1,3 +1,3 @@
 # softwaretoolspublic
 edit by ubuntu
-edit by vagrant
+edit by ubuntu and vagrant
